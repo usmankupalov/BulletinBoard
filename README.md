@@ -1,8 +1,7 @@
 # BulletinBoard
 
 ## Description
-- News service where any registered user can share news. Written news is displayed in the general list of news after approval by the Administrator.
-The administrator can approve or refuse the publication of the news.
+- News Rest api web-application service where any registered user can share news. Written news is displayed in the general list of news after approval by the Administrator. The administrator can approve or refuse the publication of the news.
 
 ## Details :
 - The service provides 4 web pages
@@ -24,7 +23,7 @@ The administrator can approve or refuse the publication of the news.
 - Correct custom errors should be displayed.
 
 ## Technical requirements :
-- jdk11
+- jdk16
 - maven
 - spring boot
 - spring security (jwtFilter, token) 
